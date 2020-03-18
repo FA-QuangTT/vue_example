@@ -1,17 +1,12 @@
 <template>
-  <div>
-    <h2>Page About</h2>
+  <div class="home">
+    <h2>Page Home</h2>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'about',
-  data() {
-    return {
 
-    }
-  }
 }
 </script>
 

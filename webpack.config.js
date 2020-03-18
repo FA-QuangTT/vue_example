@@ -49,7 +49,6 @@ module.exports = {
     historyApiFallback: true,
     noInfo: true,
     overlay: true,
-    clientLogLevel: 'none'
   },
   performance: {
     hints: false
